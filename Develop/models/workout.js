@@ -12,7 +12,7 @@ const WorkoutSchema = new Schema({
   },
   name: {
       type: "What is the name of the exercise?"
-  }
+  },
   time: {
       type: Number,
   },
