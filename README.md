@@ -1,5 +1,7 @@
 Heroku Deployed link: https://git.heroku.com/cryptic-bastion-81784.git
 
+Outside of school learning source: https://www.youtube.com/watch?v=7CqJlxBYj-M
+
 This is homework utilizing MongoDB and mongoose after the first week of learning the server program. Front end was developed by the school and you can find out more about this project below:
 
 # Unit 17 Nosql Homework: Workout Tracker
