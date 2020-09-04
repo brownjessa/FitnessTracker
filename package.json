@@ -6,7 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "nodemon server.js",
-    "seed": "node seeders/seed.js"
+    "seed": "node seeders/seed.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "npm build"
   },
   "author": "Jessamine Brown",
   "license": "ISC",
